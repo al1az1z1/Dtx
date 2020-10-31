@@ -1,0 +1,9 @@
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\bin\Debug\netstandard2.0\Dtx.deps.json
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\bin\Debug\netstandard2.0\Dtx.dll
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\bin\Debug\netstandard2.0\Dtx.pdb
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.csprojAssemblyReference.cache
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.AssemblyInfoInputs.cache
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.AssemblyInfo.cs
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.csproj.CoreCompileInputs.cache
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.dll
+G:\_temp\Dtx.Security-master\Dtx.Security\Dtx\obj\Debug\netstandard2.0\Dtx.pdb

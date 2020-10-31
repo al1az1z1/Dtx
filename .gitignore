@@ -1,0 +1,15 @@
+.vs
+Dtx.Security/Data/bin
+Dtx.Security/Data/obj
+Dtx.Security/Dtx.Security.Client/bin
+Dtx.Security/Dtx.Security.Client/obj
+Dtx.Security/Dtx.Security.Server/bin
+Dtx.Security/Dtx.Security.Server/obj
+Dtx.Security/Models/bin
+Dtx.Security/Models/obj
+Dtx.Security/Resources/bin
+Dtx.Security/Resources/obj
+Dtx.Security/ViewModels/bin
+Dtx.Security/ViewModels/obj
+Dtx.Security/XUnitTestProject/bin
+Dtx.Security/XUnitTestProject/obj
