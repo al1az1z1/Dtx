@@ -1,4 +1,6 @@
-﻿//namespace Data
+﻿//doesn't  need 
+
+//namespace Data
 //{
 //	public interface IDatabaseContext
 //	{
